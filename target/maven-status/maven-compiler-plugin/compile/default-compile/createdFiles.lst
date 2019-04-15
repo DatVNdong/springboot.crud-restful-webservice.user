@@ -1,0 +1,6 @@
+springboot\crudrestfulwebservice\user\RunApplication.class
+springboot\crudrestfulwebservice\user\domain\User.class
+springboot\crudrestfulwebservice\user\mapper\UserMapper.class
+springboot\crudrestfulwebservice\user\service\UserServiceImpl.class
+springboot\crudrestfulwebservice\user\service\UserService.class
+springboot\crudrestfulwebservice\user\controller\UserController.class
